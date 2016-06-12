@@ -1,22 +1,17 @@
 Description & Goals
 -------------------
 
-#Create a project using the generator: http://wildfly-swarm.io/generator/
-
-#Explore Wildfly Swarm and various fractions.
-
-#Externalise configuration.
-
-#Deploy the application in standalone mode (aka uberjar).
-
-#Extract the uberjar (JAR/WAR) to understand the structure.
+1. Create a project using the generator: http://wildfly-swarm.io/generator/
+2. Explore Wildfly Swarm and various fractions.
+3. Externalise configuration.
+4. Deploy the application in standalone mode (aka uberjar).
+5. Extract the uberjar (JAR/WAR) to understand the structure.
 
 Setup
 -----
 
-#Install IntelliJ IDEA Lombok plugin.
-
-#Import into IntelliJ IDEA as Maven import.
+- Install IntelliJ IDEA Lombok plugin.
+- Import into IntelliJ IDEA as Maven import.
 
 Run
 ---
