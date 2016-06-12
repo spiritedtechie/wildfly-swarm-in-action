@@ -1,4 +1,7 @@
-package com.spiritedtechie.user;
+package com.spiritedtechie.user.api;
+
+import com.spiritedtechie.user.domain.model.User;
+import com.spiritedtechie.user.domain.service.UserService;
 
 import javax.inject.Inject;
 import javax.ws.rs.GET;

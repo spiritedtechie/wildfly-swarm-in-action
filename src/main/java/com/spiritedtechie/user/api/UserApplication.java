@@ -1,4 +1,4 @@
-package com.spiritedtechie;
+package com.spiritedtechie.user.api;
 
 import javax.ws.rs.core.Application;
 import javax.ws.rs.ApplicationPath;

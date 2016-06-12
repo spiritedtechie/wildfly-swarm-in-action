@@ -14,7 +14,9 @@ Extract the uberjar (JAR/WAR) to understand the structure.
 Setup
 -----
 
-Import into IDE using Maven.
+Install IntelliJ IDEA Lombok plugin.
+
+Import into IntelliJ IDEA as Maven import.
 
 Running
 -------

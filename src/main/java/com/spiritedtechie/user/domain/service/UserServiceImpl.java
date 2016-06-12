@@ -1,4 +1,6 @@
-package com.spiritedtechie.user;
+package com.spiritedtechie.user.domain.service;
+
+import com.spiritedtechie.user.domain.model.User;
 
 import javax.enterprise.inject.Default;
 
