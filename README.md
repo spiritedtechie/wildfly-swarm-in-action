@@ -15,16 +15,16 @@ Setup
 
 Run
 ---
-
-    mvn wildfly-swarm:run
-
+```
+mvn wildfly-swarm:run
+```
 Package
 -------
 
 To create an uber jar:
-
-    mvn clean package
-
+```
+mvn clean package
+```
 The jar should be in the target directory with filename [project_name]-swarm.jar
 
 Use
